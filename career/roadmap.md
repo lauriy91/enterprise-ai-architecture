@@ -158,3 +158,17 @@ Nunca estudiaremos para aprobar un examen.
 Construiremos primero.
 
 Las certificaciones llegarán como consecuencia natural del conocimiento adquirido.
+
+# Sprint 1
+
+## Entregables
+
+- [ ] Discovery Framework
+- [ ] Atlantis Brain
+- [ ] Caso de Estudio #1
+- [ ] ADR-0002
+- [ ] Entrevista #1
+
+Estado:
+
+20%
